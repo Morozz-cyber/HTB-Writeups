@@ -16,7 +16,7 @@ htb Titanic
 - LFI (Local File Inclusion)
 - Привилегии через уязвимый cron-скрипт
 
- Отчёт: [titanic-report.pdf](./Titanic/titanic-report.pdf)
+ Отчёт: [titanic-report.docx](./Titanic/titanic-report.docx)
 
 ---
 
