@@ -1,0 +1,29 @@
+Dancing (Very Easy)
+
+Type: SMB / Enumeration / Misconfiguration / Initial Access
+
+Platform: HackTheBox
+
+Difficulty: Very Easy
+
+What I did:
+
+Performed SMB enumeration using nmap and smbclient.
+
+Identified misconfigured SMB share (WorkShares) with guest access.
+
+Accessed sensitive files without authentication, gaining an initial foothold.
+
+Practiced interaction with SMB service from the Linux terminal.
+
+Key skills demonstrated:
+
+Network service scanning and enumeration.
+
+Exploiting SMB misconfigurations.
+
+File share analysis and data extraction.
+
+Understanding Windows service exposure risks.
+
+🎯 Author: Morozz-cyber
